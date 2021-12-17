@@ -1,4 +1,5 @@
 
+<p align="center">
 
 # Welcome to my GitHub Axis Brain ☯ 👋
 
@@ -15,7 +16,8 @@ Remote // Hybrid // Presential
 _ 🌪 In finished Master in Code: Merging technologies as: 
 
     <i class="fas fa-crown"></i>
+    <i class="fab fa-github"></i>
 
 # Visit My [Portfolio!](https://rogeliomx.github.io/portfolio/) 
 
-
+</p>
