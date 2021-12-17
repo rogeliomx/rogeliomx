@@ -1,6 +1,4 @@
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
+
 
 # Welcome to my GitHub Axis Brain ☯ 👋
 
@@ -16,8 +14,7 @@ Remote // Hybrid // Presential
 - 📻 I'm technological seeker ...
 _ 🌪 In finished Master in Code: Merging technologies as: 
 
-    `r fa("node")`
-    `r fa("r-project", fill = "steelblue")` H2 Heading
+    <i class="fas fa-crown"></i>
 
 # Visit My [Portfolio!](https://rogeliomx.github.io/portfolio/) 
 
