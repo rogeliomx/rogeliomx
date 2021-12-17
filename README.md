@@ -1,3 +1,7 @@
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
 # Welcome to my GitHub Axis Brain ☯ 👋
 
 
