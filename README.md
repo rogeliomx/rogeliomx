@@ -12,6 +12,8 @@ Remote // Hybrid // Presential
 - 📻 I'm technological seeker ...
 _ 🌪 In finished Master in Code: Merging technologies as: 
 
+    `r fa("node")`
+    `r fa("r-project", fill = "steelblue")` H2 Heading
 
 # Visit My [Portfolio!](https://rogeliomx.github.io/portfolio/) 
 
