@@ -1,18 +1,18 @@
-### Welcome to my GitHub Axis Brain ☯ 👋
+# Welcome to my GitHub Axis Brain ☯ 👋
 
 
-**rogeliomx/rogeliomx**
+## Rogelio Galindo is a ✨ Web Dev / Entrepenour & Di6italMedia Kreator✨ 
 
-##Rogelio Galindo is a ✨ Web Dev / Entrepenour DigitalMedia Kreator✨ 
-
-# Based in MEXICO 
+### Based in MEXICO 
 
 Remote // Hybrid // Presential
 
+- 🌱 I’m currently searching for a job {web dev position / FrontEnd / BackEnd / UX  }...
 - 🔭 I'm sky watcher 🌌 ...
 - 📻 I'm technological seeker ...
-- 🌱 I’m currently searching for a job...
+_ 🌪 In finished Master in Code: Merging technologies as: 
 
-## My [Portfolio](https://rogeliomx.github.io/portfolio/).
 
-<i class="fa fa-medium fa-5x" aria-hidden="true">
+# Visit My [Portfolio!](https://rogeliomx.github.io/portfolio/) 
+
+
